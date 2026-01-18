@@ -1,0 +1,5 @@
+{
+  "name": "KPI Dashboard PA monthly",
+  "description": "A high-performance dashboard for monitoring Physical Availability (PA%) of mining equipment like Dump Trucks, Dozers, and Excavators, featuring interactive charts and Gemini-powered operational insights.",
+  "requestFramePermissions": []
+}
